@@ -1,0 +1,38 @@
+## 5 Visualizations:
+
+# Visual 1: Average score by Race/Ethnicity Group
+    In this analysis, you can see what average scores each race/ethnicity got per subject.
+    I feel this shows what level each group is at. In the bar chart, you can see group A's score
+    performance averaged lower scores compared to other groups. Whilst, group E averaged the highest.
+    This might make you wonder why is group A performing the worst?
+
+# Visual 2: Score distributions
+    In this analysis, you see three charts that visualize all scores for each subject in a histogram.
+    This chart gives some more basic information and generalizes all scores without any other factors.
+    You can see that many test takers got between 65-70 in math, 70-75 in reading, 65-75 in writing.
+    This type of information could be good to come back to when comparing scores such as confirming
+    group A's average math score was 60, which can be noted as below the average distribution.
+
+# Visual 3: Scores by Test Preparation
+    In this analysis, you see the scores per subject based on whether they completed the test preparation or not.
+    With the use of box plots, you can see that for all subjects, those who completed the test prep had higher scores
+    than those who didn't. This makes analysis easier for only the reason of determining if test preparation is important
+    or not. You can see in the charts that the comparison for those who did test prep for math only performed slightly
+    better. But those who did test prep had seemly significant enhanced performance compared to non-test-preppers.
+
+#Visual 4: Average scores by Parent Level of Education
+    In this analysis, you can where students who differ in scores by what level of education their parents received.
+    You can see that average scores, for students with parents that had high school education, were lower than the
+    rest. Average scores were highest for students whos parents received master degrees. Its quite interesting to see
+    that students with parents who had some high school education had higher average scores than those with parents
+    who finished their high school education. But overall, I think this analysis shows that when a parent has a higher 
+    level of education, it could be concluded that a students score may average higher.
+
+# Visual 5: Parent Level of Education per student by Race/Ethnicity Group
+    In this analysis, you see the number of students per ethnicty group and what level of education some student's parents
+    had Looking at the graph now, I can see how this might be a misleading graph. It might lead someone to think one 
+    ethinicy group might have higher education than the other. But analyzing it, you can see, group C more simply
+    has the highest number of individuals. Many individuals in that group had parents who recieved an associates degree. 
+    This could make analysis easier though by seeing what group and what level of education these student's parents
+    received were most prominent. You could correlate this chart and the first visualization and notice that group A has 
+    lower average scores and the most prominent level of education was some high school.

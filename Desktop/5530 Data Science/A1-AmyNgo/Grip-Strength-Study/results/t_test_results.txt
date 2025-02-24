@@ -1,0 +1,3 @@
+Is there a significant difference of grip strength for woman of different ages?
+T-statistic: -1.1111658325806488
+P-value: 0.3090295183230276
