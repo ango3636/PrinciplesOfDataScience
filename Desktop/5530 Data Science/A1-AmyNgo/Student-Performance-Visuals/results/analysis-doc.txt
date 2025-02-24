@@ -20,7 +20,7 @@
     or not. You can see in the charts that the comparison for those who did test prep for math only performed slightly
     better. But those who did test prep had seemly significant enhanced performance compared to non-test-preppers.
 
-#Visual 4: Average scores by Parent Level of Education
+# Visual 4: Average scores by Parent Level of Education
     In this analysis, you can where students who differ in scores by what level of education their parents received.
     You can see that average scores, for students with parents that had high school education, were lower than the
     rest. Average scores were highest for students whos parents received master degrees. Its quite interesting to see
